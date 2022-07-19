@@ -15,7 +15,7 @@ getgenv().Prediction = 0.1225
 getgenv().ChatMode = false
 getgenv().NotifMode = true
     getgenv().PartMode = true
-    getgenv().AirshotFunccc = true
+    getgenv().AirshotFunccc = false
     getgenv().Partz = "HumanoidRootPart"
 getgenv().AutoPrediction = true
 --
